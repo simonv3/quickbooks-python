@@ -1,3 +1,13 @@
+# Warning
+
+This code is no longer maintained. 
+
+There's a couple of better implementations of this in the branches. 
+
+I would recommend having a look at https://github.com/HaPsantran/quickbooks-python.
+
+If you want a setup.py / pip package, have a look here: https://github.com/troolee/quickbooks-python
+
 # quickbooks-python
 -------------------
 
